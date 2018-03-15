@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SequenceJump/obj/Debug
+/SequenceJump/bin/Debug
+/.vs/SequenceJump/v14
+/SequenceJump/SequenceJump.csproj.user
+/packages/CommandLineParser.2.0.9-alpha
